@@ -1,0 +1,16 @@
+Package: rocks.stek29.tgneverexplicit
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: pkgs/rocks.stek29.tgneverexplicit/rocks.stek29.tgneverexplicit_0.0.4_iphoneos-arm.deb
+Size: 3172
+MD5sum: c1666724b658cd94776feaf120af92c5
+SHA1: 20c8700e3db18fc32e21f381fa23a6f0e46dc612
+SHA256: 5d297ff00f12e2d5b2583bc9170ed76f57ea520016c6cdb8e0448fc1292d4875
+Section: Tweaks
+Description: Unrestrict all bots and channels in Telegram
+Author: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Name: TGNeverExplicit
+
