@@ -1,0 +1,8 @@
+Origin: stek29's Cydia repo
+Label: stek29
+Suite: stable
+Version: 1337
+Codename: cystuff
+Architectures: iphoneos-arm
+Components: main
+Description: stek29's tweaks and other things
