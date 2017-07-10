@@ -1,3 +1,19 @@
+Package: me.chewitt.tabcount
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Installed-Size: 136
+Depends: firmware(>= 7.0), mobilesubstrate, preferenceloader
+Filename: pkgs/me.chewitt.tabcount/me.chewitt.tabcount_2.1_iphoneos-arm.deb
+Size: 11830
+MD5sum: 25595223382ab9c43a2df9fa25e6f8db
+SHA1: 9373c261d1c0d8149bba5d44a16b6dff8518db40
+SHA256: 013a86f9ef048d645606e7704991ee61bae1f1518d3e650bf6071d4cecdc0aa9
+Section: Tweaks
+Description: Display number of open tabs in safari, hold to close all/open new & unlimited number of tabs.
+Author: Charlie Hewitt <contact@chewitt.me>
+Name: SafariTabCount
+
 Package: rocks.stek29.tgneverexplicit
 Version: 0.0.4
 Architecture: iphoneos-arm
