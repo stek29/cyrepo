@@ -14,6 +14,22 @@ Description: Display number of open tabs in safari, hold to close all/open new &
 Author: Charlie Hewitt <contact@chewitt.me>
 Name: SafariTabCount
 
+Package: rocks.stek29.telenhancer
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: pkgs/rocks.stek29.telenhancer/rocks.stek29.telenhancer_0.0.5_iphoneos-arm.deb
+Size: 16302
+MD5sum: a769a3f385de2968b1e2398417750a1f
+SHA1: f948c84871561d013f975eff434e2ab73418d296
+SHA256: 8a86bf1049bb9d41b8f9e5519cbdadcf137581253e37e88bfad465f54abe937f
+Section: Tweaks
+Description: Various features for Telegram
+Author: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Name: Telenhancer
+
 Package: rocks.stek29.tgneverexplicit
 Version: 0.0.4
 Architecture: iphoneos-arm
