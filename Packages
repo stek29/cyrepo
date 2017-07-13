@@ -1,3 +1,17 @@
+Package: com.KJCracks.Clutch
+Version: 2.0.4-46-g64ba1c490141
+Architecture: iphoneos-arm
+Maintainer: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Filename: pkgs/com.kjcracks.clutch/com.kjcracks.clutch-2.0.4-46-g64ba1c490141.deb
+Size: 195506
+MD5sum: 0da716daa47ee466256fa7ab5396ea32
+SHA1: dff37680f69edd6c7d1a84e02b150dc4eeb30e97
+SHA256: 599b87438efdd56e26c5b7bd1ecd465bb5f15c35ab52b399a04100688361b0ac
+Section: Utilities
+Description: Fast cracking utility for iPhone, iPod and iPad
+Author: Kim Jong Cracks
+Name: Clutch
+
 Package: me.chewitt.tabcount
 Version: 2.1
 Architecture: iphoneos-arm
