@@ -6,7 +6,7 @@ VERSION="$(git describe --long --tags)"
 echo "Packaging Clutch $VERSION"
 
 tmpdir="$(mktemp -d)"
-xcodebuild build CONFIGURATION_BUILD_DIR="$tmpdir/build" >/dev/null 2>&1
+xcodebuild build CONFIGURATION_BUILD_DIR="$tmpdir/build" CODE_SIGN_IDENTITY= >/dev/null 2>&1
 cp Clutch/Clutch.entitlements "$tmpdir/Clutch.entitlements"
 
 pushd "$tmpdir"
