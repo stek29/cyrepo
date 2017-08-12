@@ -29,16 +29,16 @@ Author: Charlie Hewitt <contact@chewitt.me>
 Name: SafariTabCount
 
 Package: rocks.stek29.telenhancer
-Version: 0.0.9
+Version: 0.0.10
 Architecture: iphoneos-arm
 Maintainer: Viktor Oreshkin (stek29) <cy@stek29.rocks>
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: pkgs/rocks.stek29.telenhancer/rocks.stek29.telenhancer_0.0.9_iphoneos-arm.deb
-Size: 17744
-MD5sum: 1122c1252de6cb17721f2d42ba684251
-SHA1: 48c1c885ce05488f7c120d5a43f362c0f1888205
-SHA256: 163d3aaa2f95e1c9e11b789b15ec0ed864d3dfe1668e186d14d8a5283548ce52
+Filename: pkgs/rocks.stek29.telenhancer/rocks.stek29.telenhancer_0.0.10_iphoneos-arm.deb
+Size: 17766
+MD5sum: b8088f8808ec3c2972701fd07ec0d7c2
+SHA1: 69a0955f56a848a0aedfab53c5e3c82c217b7039
+SHA256: 3d2600a1f5e7efea78f802adb3272e22e499f2b56c7bd5722369cb5e9cea62d5
 Section: Tweaks
 Description: Various features for Telegram
 Author: Viktor Oreshkin (stek29) <cy@stek29.rocks>
