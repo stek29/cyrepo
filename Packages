@@ -29,16 +29,16 @@ Author: Charlie Hewitt <contact@chewitt.me>
 Name: SafariTabCount
 
 Package: rocks.stek29.shoff
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: Viktor Oreshkin (stek29) <cy@stek29.rocks>
 Installed-Size: 116
 Depends: OpenSSL, curl
-Filename: pkgs/rocks.stek29.shoff/rocks.stek29.shoff_1.1.1_iphoneos-arm.deb
-Size: 30888
-MD5sum: 3ff27fff18c62b4cbbb14403ad5eec17
-SHA1: 73dda1427577e94d637d4b45e18504f03064dc11
-SHA256: 2702a03494d9b858694e9888578d3bec0368f9fcad8fbc1babdcb7192b72209d
+Filename: pkgs/rocks.stek29.shoff/rocks.stek29.shoff_1.1.2_iphoneos-arm.deb
+Size: 30886
+MD5sum: 6e6060276dd96db8a346b9f8ce4f0c47
+SHA1: cf2f734834b66e9a513f5cd5fcd7797286229add
+SHA256: 49d4c07c64dd4a550a9b6c7c212fd16bde508741e084fa9411a4ee8a58161414
 Section: Tools
 Description: Ondevice offset finder for UntetheredHomeDepot, see github.com/stek29/awful-offset-finder
 Author: Viktor Oreshkin (stek29) <cy@stek29.rocks>
