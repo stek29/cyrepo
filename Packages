@@ -28,6 +28,22 @@ Description: Display number of open tabs in safari, hold to close all/open new &
 Author: Charlie Hewitt <contact@chewitt.me>
 Name: SafariTabCount
 
+Package: rocks.stek29.shoff
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Installed-Size: 116
+Depends: OpenSSL
+Filename: pkgs/rocks.stek29.shoff/rocks.stek29.shoff_1.0_iphoneos-arm.deb
+Size: 30164
+MD5sum: 712b07e98ccfa1cd35d570859da64ad6
+SHA1: 6e524fdee72e2267900555340525454b482161c4
+SHA256: cb33fc24426c4be258e02fe7bc31e518e452985db692a85b606b3a3a1226f9a4
+Section: Tools
+Description: Ondevice offset finder for UntetheredHomeDepot, see github.com/stek29/awful-offset-finder
+Author: Viktor Oreshkin (stek29) <cy@stek29.rocks>
+Name: SHOFF
+
 Package: rocks.stek29.telenhancer
 Version: 0.0.12
 Architecture: iphoneos-arm
